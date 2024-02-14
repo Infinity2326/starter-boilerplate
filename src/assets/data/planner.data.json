@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Стул",
+    "group": "chairs",
+    "image": "/img/thumbs/chair.png"
+  },
+  {
+    "name": "Диван",
+    "group": "sofas",
+    "image": "/img/thumbs/sofa.png"
+  },
+  {
+    "name": "Стол квадратный",
+    "group": "tables",
+    "image": "/img/thumbs/table.png"
+  },
+  {
+    "name": "Стол круглый",
+    "group": "tables",
+    "image": "/img/thumbs/table2.png"
+  }
+]
